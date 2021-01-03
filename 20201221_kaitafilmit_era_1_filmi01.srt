@@ -1,6 +1,22 @@
 1
-00:00:00,000 --> 00:05:00,000
+00:00:00,000 --> 00:00:04,000
 Kesäkuu 1963
 Riihimäki-Turku-Norrtälje-Välimeri/Italia
+
+2
+00:00:05,000 --> 00:00:08,000
+Kuukauden kestänyt kesälomaretki Riihimäeltä Välimeren Rannalle
+Kohteena Genova ja Venetsia
+
+
+3
+00:01:13,500 --> 00:01:16,000
+Majoitusta kahdessa sopu-teltassa
+
+4
+00:10:26,000 --> 00:10:27,000
+Vierailu Uppsalassa Lempi & Leotin Nyhlenin luona
+
+
 
 

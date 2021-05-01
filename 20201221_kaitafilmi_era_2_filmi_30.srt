@@ -1,0 +1,33 @@
+1
+00:00:00,000 --> 00:00:04,000
+Antinniemi, Loppi, 1963
+Hanna Häppölä, Nelly
+
+2
+00:00:13,000 --> 00:00:16,500
+Kustaa ja Marita Häppölä,
+Irja Häppölä, Olli-Pekka
+
+3
+00:00:27,000 --> 00:00:30,500
+Paavo Häppölä,
+Pohjoinen, Tuulos
+
+4
+00:01:03,000 --> 00:01:06,500
+Kerttu Häppölä
+
+5
+00:04:11,000 --> 00:01:14,500
+Walde Mäkinen
+
+6
+00:04:27,000 --> 00:01:30,500
+Hämeenlinnan rautatieasema,
+Lempi Nyhlen
+
+7
+00:04:27,000 --> 00:01:30,500
+Greta, Kustaa ja Marita Häppölä
+
+
